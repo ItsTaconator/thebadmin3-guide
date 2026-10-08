@@ -11,4 +11,4 @@ I currently have this hosted at https://badmin3.taconator.com
 
    (Replace `mdbook` with path to `mdbook` binary)
    - Debugging: run `mdbook serve` and navigate to `192.168.1.117:3000` in a browser on a different computer
-   - Release: run `mdbook build` and deploy `output` folder with the web server of your choice
+   - Release: run `mdbook build` and deploy `book` folder with the web server of your choice
