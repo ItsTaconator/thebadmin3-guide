@@ -2,7 +2,9 @@
 This is the repo for my documentation for TheBadmin3 server. It is unfinished as I can't remember most of the details about how things work on the server.
 
 # How to read it
-I currently have this hosted at https://badmin3.taconator.com
+The repo is set to automatically deploy to [GitHub Pages](https://itstaconator.github.io/thebadmin3-guide/) when it's pushed to
+
+Additionally, I currently have this hosted at https://badmin3.taconator.com
 
 # How to deploy locally
 1. Grab `mdbook` binary from GitHub: https://github.com/rust-lang/mdBook/releases. Optionally, put it in your $PATH for easier access
